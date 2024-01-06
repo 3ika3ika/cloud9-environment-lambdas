@@ -20,7 +20,7 @@ def lambda_handler(event, context):
                     'Tags':[
                         {
                             'Key':'Name',
-                            'Value': f"My Cloud9' underlying EC2 snapshot {current_time}" #Give the f string name of your choice 
+                            'Value': f"My Cloud9' underlying EC2 snapshot {current_time}" #Give the f string name of your choice.
                         }
                     ]
                 }
