@@ -1,0 +1,5 @@
+{
+  "id": "LambdaEC2DailySnapshot",
+  "configuration": "file:///home/ec2-user/environment/.c9",
+  "name": "LambdaEC2DailySnapshot"
+}
